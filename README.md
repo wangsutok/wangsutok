@@ -5,6 +5,7 @@
 
 💻 I’m a **Full-Stack & Blockchain Developer** with over **7 years of experience** building creative and scalable web systems.  
 I enjoy combining **design, logic, and innovation** — from **React** interfaces to **smart contracts** on **Ethereum**.  
+**New GitHub** created in **2025** after **losing** access to my previous account.
 
 ---
 
