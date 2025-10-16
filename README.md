@@ -30,7 +30,7 @@ I enjoy combining **design, logic, and innovation** — from **React** interface
 - Email: wangsutok@outlook.com
 - GitHub:https://github.com/wangsutok
 - Portfolio: https://wangsutok-portfolio.vercel.app
-
+- linkedin: https://linkedin.com/in/david-wang-b7317a38b
 ### 😄 Pronouns
 - He / Him  
 
