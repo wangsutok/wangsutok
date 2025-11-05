@@ -3,7 +3,7 @@
 
 **wangsutok/wangsutok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-💻 I’m a **Full-Stack & Blockchain Developer** with over **7 years of experience** building creative and scalable web systems.  
+💻 I’m a **Full-Stack & Blockchain Developer** with over **5 years of experience** building creative and scalable web systems.  
 I enjoy combining **design, logic, and innovation** — from **React** interfaces to **smart contracts** on **Ethereum**.  
 **New GitHub** created in **2025** after **losing** access to my previous account.
 
