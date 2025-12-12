@@ -27,7 +27,7 @@ I enjoy combining **design, logic, and innovation** — from **React** interface
 - React, Next.js, Solidity, Smart Contracts, Shopify  
 
 ### 📫 How to reach me
-- Email: thierrywangsutok@gmail.com
+- Email: wangsutok0927@gmail.com
 - GitHub:https://github.com/wangsutok
 
 ### 😄 Pronouns
